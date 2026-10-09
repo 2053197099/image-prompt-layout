@@ -1,0 +1,4 @@
+interface:
+  display_name: "图文作品排版"
+  short_description: "将角色图和场景图与对应提示词排成上图下文的黑底白字图片作品集"
+  default_prompt: "使用 $image-prompt-layout 把我提供的图片与对应提示词排成上图下文的图片作品集。"
